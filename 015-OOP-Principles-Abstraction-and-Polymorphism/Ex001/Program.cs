@@ -1,10 +1,17 @@
-﻿namespace Ex001
+namespace Ex001;
+
+internal class Program
 {
-    internal class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        var radius = int.Parse(Console.ReadLine()!);
+        IDrawable circle = new Circle(radius);
+
+        var width = int.Parse(Console.ReadLine()!);
+        var height = int.Parse(Console.ReadLine()!);
+        IDrawable rectangle = new Rectangle(width, height);
+
+        circle.Draw();
+        rectangle.Draw();
     }
 }

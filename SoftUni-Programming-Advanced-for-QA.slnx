@@ -1,0 +1,352 @@
+<Solution>
+  <Folder Name="/001-Course-Introduction/">
+    <Project Path="001-Course-Introduction/Ex001/Ex001.csproj" />
+    <Project Path="001-Course-Introduction/Ex002/Ex002.csproj" />
+    <Project Path="001-Course-Introduction/Ex003/Ex003.csproj" />
+    <Project Path="001-Course-Introduction/Ex004/Ex004.csproj" />
+    <Project Path="001-Course-Introduction/Ex005/Ex005.csproj" />
+  </Folder>
+  <Folder Name="/001-Course-Introduction/Ex001/">
+    <Project Path="001-Course-Introduction/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/001-Course-Introduction/Ex002/">
+    <Project Path="001-Course-Introduction/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/001-Course-Introduction/Ex003/">
+    <Project Path="001-Course-Introduction/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/001-Course-Introduction/Ex004/">
+    <Project Path="001-Course-Introduction/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/001-Course-Introduction/Ex005/">
+    <Project Path="001-Course-Introduction/Ex005/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/002-Strings-and-Text-Processing/">
+    <Project Path="002-Strings-and-Text-Processing/Ex001/Ex001.csproj" />
+    <Project Path="002-Strings-and-Text-Processing/Ex002/Ex002.csproj" />
+    <Project Path="002-Strings-and-Text-Processing/Ex003/Ex003.csproj" />
+    <Project Path="002-Strings-and-Text-Processing/Ex004/Ex004.csproj" />
+    <Project Path="002-Strings-and-Text-Processing/Ex005/Ex005.csproj" />
+  </Folder>
+  <Folder Name="/002-Strings-and-Text-Processing/Ex001/">
+    <Project Path="002-Strings-and-Text-Processing/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/002-Strings-and-Text-Processing/Ex002/">
+    <Project Path="002-Strings-and-Text-Processing/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/002-Strings-and-Text-Processing/Ex003/">
+    <Project Path="002-Strings-and-Text-Processing/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/002-Strings-and-Text-Processing/Ex004/">
+    <Project Path="002-Strings-and-Text-Processing/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/002-Strings-and-Text-Processing/Ex005/">
+    <Project Path="002-Strings-and-Text-Processing/Ex005/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/003-Regular-Expressions/">
+    <Project Path="003-Regular-Expressions/Ex001/Ex001.csproj" />
+    <Project Path="003-Regular-Expressions/Ex002/Ex002.csproj" />
+    <Project Path="003-Regular-Expressions/Ex003/Ex003.csproj" />
+  </Folder>
+  <Folder Name="/003-Regular-Expressions/Ex001/">
+    <Project Path="003-Regular-Expressions/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/003-Regular-Expressions/Ex002/">
+    <Project Path="003-Regular-Expressions/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/003-Regular-Expressions/Ex003/">
+    <Project Path="003-Regular-Expressions/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex001/Ex001.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex002/Ex002.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex003/Ex003.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex004/Ex004.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex005/Ex005.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex006/Ex006.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex007/Ex007.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex008/Ex008.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex009/Ex009.csproj" />
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex010/Ex010.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex001/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex002/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex003/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex004/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex005/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex005/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex006/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex006/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex007/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex007/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex008/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex008/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex009/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex009/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex010/">
+    <Project Path="004-Unit-Testing-Exercise-Strings-and-Regular-Expressions/Ex010/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/005-Dictionaries-Lambda-and-LINQ/">
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex001/Ex001.csproj" />
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex002/Ex002.csproj" />
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex003/Ex003.csproj" />
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex004/Ex004.csproj" />
+  </Folder>
+  <Folder Name="/005-Dictionaries-Lambda-and-LINQ/Ex001/">
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/005-Dictionaries-Lambda-and-LINQ/Ex002/">
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/005-Dictionaries-Lambda-and-LINQ/Ex003/">
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/005-Dictionaries-Lambda-and-LINQ/Ex004/">
+    <Project Path="005-Dictionaries-Lambda-and-LINQ/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex001/Ex001.csproj" />
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex002/Ex002.csproj" />
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex003/Ex003.csproj" />
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex004/Ex004.csproj" />
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex005/Ex005.csproj" />
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex006/Ex006.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/Ex001/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/Ex002/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/Ex003/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/Ex004/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/Ex005/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex005/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/006-Exercises-Dictionaries-Lambda-and-LINQ/Ex006/">
+    <Project Path="006-Exercises-Dictionaries-Lambda-and-LINQ/Ex006/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex001/Ex001.csproj" />
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex002/Ex002.csproj" />
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex003/Ex003.csproj" />
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex004/Ex004.csproj" />
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex005/Ex005.csproj" />
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex006/Ex006.csproj" />
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex007/Ex007.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex001/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex002/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex003/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex004/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex005/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex005/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex006/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex006/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex007/">
+    <Project Path="007-Unit Testing-Exercise-Dictionaries-Lambda-and-LINQ/Ex007/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/008-Objects-and-Classes/">
+    <Project Path="008-Objects-and-Classes/Ex001/Ex001.csproj" />
+    <Project Path="008-Objects-and-Classes/Ex002/Ex002.csproj" />
+    <Project Path="008-Objects-and-Classes/Ex003/Ex003.csproj" />
+    <Project Path="008-Objects-and-Classes/Ex004/Ex004.csproj" />
+  </Folder>
+  <Folder Name="/008-Objects-and-Classes/Ex001/">
+    <Project Path="008-Objects-and-Classes/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/008-Objects-and-Classes/Ex002/">
+    <Project Path="008-Objects-and-Classes/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/008-Objects-and-Classes/Ex003/">
+    <Project Path="008-Objects-and-Classes/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/008-Objects-and-Classes/Ex004/">
+    <Project Path="008-Objects-and-Classes/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/009-Definning-Classes/">
+    <Project Path="009-Definning-Classes/Ex001/Ex001.csproj" />
+  </Folder>
+  <Folder Name="/009-Definning-Classes/Ex001/">
+    <Project Path="009-Definning-Classes/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/010-Exercise-Objects-and-Classes/">
+    <Project Path="010-Exercise-Objects-and-Classes/Ex001/Ex001.csproj" />
+    <Project Path="010-Exercise-Objects-and-Classes/Ex002/Ex002.csproj" />
+    <Project Path="010-Exercise-Objects-and-Classes/Ex003/Ex003.csproj" />
+    <Project Path="010-Exercise-Objects-and-Classes/Ex004/Ex004.csproj" />
+  </Folder>
+  <Folder Name="/010-Exercise-Objects-and-Classes/Ex001/">
+    <Project Path="010-Exercise-Objects-and-Classes/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/010-Exercise-Objects-and-Classes/Ex002/">
+    <Project Path="010-Exercise-Objects-and-Classes/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/010-Exercise-Objects-and-Classes/Ex003/">
+    <Project Path="010-Exercise-Objects-and-Classes/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/010-Exercise-Objects-and-Classes/Ex004/">
+    <Project Path="010-Exercise-Objects-and-Classes/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex001/Ex001.csproj" />
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex002/Ex002.csproj" />
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex003/Ex003.csproj" />
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex004/Ex004.csproj" />
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex005/Ex005.csproj" />
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex006/Ex006.csproj" />
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex007/Ex007.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex001/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex002/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex003/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex004/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex005/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex005/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex006/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex006/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/011-Unit-Testing-Exercise-Objects-and-Classes/Ex007/">
+    <Project Path="011-Unit-Testing-Exercise-Objects-and-Classes/Ex007/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/012-Exception-Handling/">
+    <Project Path="012-Exception-Handling/Ex001/Ex001.csproj" />
+    <Project Path="012-Exception-Handling/Ex002/Ex002.csproj" />
+    <Project Path="012-Exception-Handling/Ex003/Ex003.csproj" />
+  </Folder>
+  <Folder Name="/012-Exception-Handling/Ex001/">
+    <Project Path="012-Exception-Handling/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/012-Exception-Handling/Ex002/">
+    <Project Path="012-Exception-Handling/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/012-Exception-Handling/Ex003/">
+    <Project Path="012-Exception-Handling/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/013-Unit-Testing-Exercise-Exception-Handling/">
+    <Project Path="013-Unit-Testing-Exercise-Exception-Handling/Ex001/Ex001.csproj" />
+  </Folder>
+  <Folder Name="/013-Unit-Testing-Exercise-Exception-Handling/Ex001/">
+    <Project Path="013-Unit-Testing-Exercise-Exception-Handling/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/014-OOP-Principles-Encapsulation-and-Inheritance/">
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex001/Ex001.csproj" />
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex002/Ex002.csproj" />
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex003/Ex003.csproj" />
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex004/Ex004.csproj" />
+  </Folder>
+  <Folder Name="/014-OOP-Principles-Encapsulation-and-Inheritance/Ex001/">
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/014-OOP-Principles-Encapsulation-and-Inheritance/Ex002/">
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/014-OOP-Principles-Encapsulation-and-Inheritance/Ex003/">
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/014-OOP-Principles-Encapsulation-and-Inheritance/Ex004/">
+    <Project Path="014-OOP-Principles-Encapsulation-and-Inheritance/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/015-OOP-Principles-Abstraction-and-Polymorphism/">
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex001/Ex001.csproj" />
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex002/Ex002.csproj" />
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex003/Ex003.csproj" />
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex004/Ex004.csproj" />
+  </Folder>
+  <Folder Name="/015-OOP-Principles-Abstraction-and-Polymorphism/Ex001/">
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/015-OOP-Principles-Abstraction-and-Polymorphism/Ex002/">
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/015-OOP-Principles-Abstraction-and-Polymorphism/Ex003/">
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/015-OOP-Principles-Abstraction-and-Polymorphism/Ex004/">
+    <Project Path="015-OOP-Principles-Abstraction-and-Polymorphism/Ex004/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Implementing-an-OOP-Hierarchy/">
+    <Project Path="016-Exercise-Implementing-an-OOP-Hierarchy/Ex001/Ex001.csproj" />
+  </Folder>
+  <Folder Name="/016-Exercise-Implementing-an-OOP-Hierarchy/Ex001/">
+    <Project Path="016-Exercise-Implementing-an-OOP-Hierarchy/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/017-Exam-Preparation/">
+    <Project Path="017-Exam-Preparation/Ex001/Ex001.csproj" />
+    <Project Path="017-Exam-Preparation/Ex002/Ex002.csproj" />
+    <Project Path="017-Exam-Preparation/Ex003/Ex003.csproj" />
+  </Folder>
+  <Folder Name="/017-Exam-Preparation/Ex001/">
+    <Project Path="017-Exam-Preparation/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/017-Exam-Preparation/Ex002/">
+    <Project Path="017-Exam-Preparation/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/017-Exam-Preparation/Ex003/">
+    <Project Path="017-Exam-Preparation/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/018-Exam-Preparation/">
+    <Project Path="018-Exam-Preparation/Ex001/Ex001.csproj" />
+    <Project Path="018-Exam-Preparation/Ex002/Ex002.csproj" />
+    <Project Path="018-Exam-Preparation/Ex003/Ex003.csproj" />
+  </Folder>
+  <Folder Name="/018-Exam-Preparation/Ex001/">
+    <Project Path="018-Exam-Preparation/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/018-Exam-Preparation/Ex002/">
+    <Project Path="018-Exam-Preparation/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/018-Exam-Preparation/Ex003/">
+    <Project Path="018-Exam-Preparation/Ex003/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/019-Exam-Preparation/">
+    <Project Path="019-Exam-Preparation/Ex001/Ex001.csproj" />
+    <Project Path="019-Exam-Preparation/Ex002/Ex002.csproj" />
+    <Project Path="019-Exam-Preparation/Ex003/Ex003.csproj" />
+  </Folder>
+  <Folder Name="/019-Exam-Preparation/Ex001/">
+    <Project Path="019-Exam-Preparation/Ex001/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/019-Exam-Preparation/Ex002/">
+    <Project Path="019-Exam-Preparation/Ex002/Tests/Tests.csproj" />
+  </Folder>
+  <Folder Name="/019-Exam-Preparation/Ex003/">
+    <Project Path="019-Exam-Preparation/Ex003/Tests/Tests.csproj" />
+  </Folder>
+</Solution>

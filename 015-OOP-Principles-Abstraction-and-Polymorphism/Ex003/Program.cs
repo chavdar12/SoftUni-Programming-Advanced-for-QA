@@ -1,10 +1,13 @@
-﻿namespace Ex003
+namespace Ex003;
+
+internal class Program
 {
-    internal class Program
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Animal cat = new Cat("Peter", "Whiskas");
+        Animal dog = new Dog("George", "Meat");
+
+        Console.WriteLine(cat.ExplainSelf());
+        Console.WriteLine(dog.ExplainSelf());
     }
 }

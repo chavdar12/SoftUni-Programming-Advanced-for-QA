@@ -1,0 +1,14 @@
+<Project>
+  <!-- Test projects only set IsTestProject=true; packages and the console helper come from here. -->
+  <ItemGroup Condition="'$(IsTestProject)' == 'true'">
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
+    <Using Include="NUnit.Framework" />
+    <!-- Expected strings use "." decimals; don't depend on the dev machine's locale. -->
+    <AssemblyAttribute Include="NUnit.Framework.SetCultureAttribute">
+      <_Parameter1>en-US</_Parameter1>
+    </AssemblyAttribute>
+    <Compile Include="$(MSBuildThisFileDirectory)ConsoleRunner.cs" Link="ConsoleRunner.cs" />
+  </ItemGroup>
+</Project>

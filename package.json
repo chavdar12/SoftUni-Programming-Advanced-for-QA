@@ -1,0 +1,12 @@
+{
+  "name": "softuni-programming-advanced-for-qa",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "mocha \"02[0-5]-*/**/*.test.js\""
+  },
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  }
+}
